@@ -10,3 +10,6 @@ spring:
           - '*-service'
   application:
     name: car.cloud.config
+    
+logging:
+  path: /home/pi/LOGS
