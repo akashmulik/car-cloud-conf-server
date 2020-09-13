@@ -12,4 +12,4 @@ spring:
     name: car.cloud.config
     
 logging:
-  path: /home/pi/LOGS
+  file: /home/pi/LOGS/cloud-server.log
